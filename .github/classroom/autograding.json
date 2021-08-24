@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "check output.txt",
+      "setup": "",
+      "run": "cat output.txt",
+      "input": "",
+      "output": "Hello, world!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
